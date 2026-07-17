@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Yaseen
 
-<!--
-**yaseenbal0ch/yaseenbal0ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 BS Computer Science Student | Python Developer | Web Developer
 
-Here are some ideas to get you started:
+I am passionate about programming, web development, AI, and open-source. I love building projects and learning new technologies every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- 🐍 Python
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- 🛠 Git & GitHub
+- 🤖 AI & Automation
+
+---
+
+## 🛠 Skills
+
+- Python
+- HTML
+- CSS
+- Git & GitHub
+- Web Development
+
+---
+
+## 📂 Projects
+
+- 🌐 My First Website
+- 🐍 Python Learning Projects
+- 🚀 More projects coming soon...
+
+---
+
+## 🎯 Goals
+
+- Become a Professional Software Engineer
+- Build Real-World Projects
+- Contribute to Open Source
+- Grow as a Freelancer
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn
+- 💻 GitHub
+- 📘 Facebook
+- 🌐 Portfolio Website
+
+⭐ Thaxnks for visiting my profile!
