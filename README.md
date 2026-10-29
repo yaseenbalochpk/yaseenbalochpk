@@ -1,201 +1,197 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,25:0B1D15,60:087F5B,100:C6A96B&height=240&section=header&text=YASEEN%20BALOCH&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20CONTINUOUS%20LEARNING&descSize=11&descAlignY=57&animation=fadeIn" width="100%" alt="Yaseen Baloch profile banner"/><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=BS+Computer+Science+Student;Python+%7C+C%2B%2B+%7C+Web+Development;Exploring+AI+%26+Automation;Learn.+Build.+Improve.+Repeat." alt="Animated developer introduction"/><br/><br/>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:071A14,45:064E3B,100:9A8050&text=YASEEN%20BALOCH&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20CONTINUOUS%20LEARNING&descSize=11&descAlignY=62&animation=fadeIn" width="100%" alt="Yaseen Baloch — Developer Profile Banner" /><a href="https://github.com/yaseenbalochpk"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=34D399&center=true&vCenter=true&width=700&lines=BS+Computer+Science+Undergraduate;Python+%7C+C%2B%2B+%7C+Web+Development;Building+Projects+Through+Continuous+Learning;Founder+of+Pakistan+Developer+Hub" alt="Typing introduction" /></a>
 
-<a href="https://github.com/yaseenbalochpk">
-<img src="https://img.shields.io/badge/GitHub-yaseenbalochpk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammad-yaseen-b308b53b1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://youtube.com/@yaseenbalochpk">
-<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a><br/><br/>
+Learning with purpose. Building through practice. Growing through collaboration.
 
-Learn • Build • Connect • Grow 🇵🇰
-
-Building skills, creating practical projects, and growing through experience.
+""GitHub" (https://img.shields.io/badge/GitHub-yaseenbalochpk-111827?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/yaseenbalochpk)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/muhammad-yaseen-b308b53b1)
+""YouTube" (https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" (https://youtube.com/@yaseenbalochpk)
+""Pakistan" (https://img.shields.io/badge/Based%20in-Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white)" (https://github.com/yaseenbalochpk)
 
 </div>---
 
 👋 About Me
 
-I'm Yaseen Baloch, a BS Computer Science student at Ghazi University, Pakistan, with an interest in software development, programming, web technologies, and AI-powered automation.
+I'm Muhammad Yaseen, professionally known as Yaseen Baloch, a BS Computer Science undergraduate from Pakistan with an interest in software development, programming, web technologies, and emerging AI tools.
 
-I believe the best way to learn technology is to apply it: understand a concept, build something practical, learn from mistakes, and keep improving.
+I focus on strengthening my technical foundations through structured learning, hands-on coding, and practical projects. My goal is to turn concepts into useful software, document my progress, and keep improving through feedback and collaboration.
 
-- 🎓 Pursuing a Bachelor of Science in Computer Science (BSCS).
-- 🐍 Practicing Python through structured learning and projects.
-- 💻 Strengthening my programming fundamentals with C++.
-- 🌐 Completed a structured learning journey in web development.
-- 🤖 Exploring AI tools, automation, and practical workflows.
-- 🛠️ Building projects to turn concepts into working applications.
-- 🇵🇰 Founder of Pakistan Developer Hub (PDH), a community focused on practical learning and collaboration.
+I also founded Pakistan Developer Hub (PDH) to encourage practical learning, knowledge sharing, and collaboration among Pakistan's developer community.
 
-«My approach: Learn with curiosity. Build with purpose. Improve with consistency.»
+- 🎓 Education: BS Computer Science
+- 💻 Programming: Python and C++
+- 🌐 Web Development: HTML, CSS and JavaScript
+- 🤖 Exploring: Artificial Intelligence and automation
+- 🛠️ Developer Workflow: Git and GitHub
+- 🇵🇰 Community: Founder of Pakistan Developer Hub
+- 📚 Mindset: Learn consistently, build practically, improve continuously
+
+«My approach is simple: learn a concept, apply it in a project, share what I learn, and improve from the experience.»
+
+🧭 My Development Philosophy
+
+<div align="center">01 · LEARN| 02 · BUILD| 03 · CONNECT| 04 · GROW
+Understand the fundamentals| Turn knowledge into projects| Share ideas and feedback| Improve through practice
+
+</div>I believe meaningful progress comes from consistent practice, honest documentation, and useful collaboration—not from collecting tools or badges.
 
 ---
 
-🧰 Technology Stack
+🧰 Technical Skills
 
-<div align="center">Programming Languages
+Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js&theme=dark" alt="Python, C++, JavaScript"/>Web Development
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+</p>Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, Bootstrap, React, Next.js, Tailwind CSS"/>Tools & Development
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Responsive%20Design-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Responsive design" />
+</p>Tools & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm&theme=dark" alt="Git, GitHub, VS Code, Vercel, npm"/></div>Current Learning Focus
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>Areas of Exploration
 
-Area| Focus
-Programming| C++, Python, problem-solving
-Web Development| HTML, CSS, JavaScript, modern frameworks
-AI & Automation| Exploring AI tools and useful workflows
-Software Projects| Code organization, debugging, and improvement
-Professional Growth| GitHub, collaboration, and technical communication
-
-Technology icons indicate areas of learning and use; they do not imply equal proficiency in every tool.
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Automation-0F766E?style=for-the-badge&logo=dependabot&logoColor=white" alt="Automation" />
+<img src="https://img.shields.io/badge/Open%20Source-166534?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open source" />
+</p>Skills reflect my learning and project experience. I continue to expand them through practice and real implementation.
 
 ---
 
 🚀 Featured Projects
 
-A selection of my learning projects and ongoing development work.
+Projects are an important part of my learning journey. Each repository documents practical work, experiments, or progress toward stronger development skills.
 
-01. TaskFlow-Pro
+1. TaskFlow-Pro
 
-A task management web project built to practice web development and task organization.
+A task management web application focused on productivity and practical front-end development.
 
-- ✅ Completed project.
-- 💻 Practical application development.
-- 🔗 "View Repository" (https://github.com/yaseenbalochpk/TaskFlow-Pro)
-- 🌐 "View Live Demo" (https://yaseenbalochpk.github.io/TaskFlow-Pro/)
+- Explore task-management interface development and web fundamentals.
+- Review the source code and project structure.
+- Try the live version.
 
-02. Python — 100 Days of Learning
+Tech: HTML · CSS · JavaScript
 
-A structured Python learning repository documenting practice, programming concepts, and projects.
+""Repository" (https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/yaseenbalochpk/TaskFlow-Pro)
+""Live Demo" (https://img.shields.io/badge/Live%20Demo-166534?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://yaseenbalochpk.github.io/TaskFlow-Pro/)
 
-- ✅ Completed the 100-day learning journey.
-- 🐍 Practiced Python through individual exercises.
-- 🛠️ Built projects including a calculator and password generator.
-- 🔗 "Explore Python Learning" (https://github.com/yaseenbalochpk/Python-Learning-)
+2. Python Learning Journey
 
-03. Web Development Journey
+A structured 100-day journey through Python fundamentals, coding exercises, and practical projects.
 
-A learning repository covering web fundamentals and practical projects.
+- Day-by-day learning files.
+- Programming practice and problem-solving.
+- A record of consistent progress through hands-on coding.
 
-- ✅ Completed the structured learning journey.
-- 🌐 Worked with HTML, CSS, and JavaScript.
-- 🛠️ Practiced through website components and mini-projects.
-- 🔗 "Explore Repository" (https://github.com/yaseenbalochpk/Web-Development-Journey)
+Tech: Python
 
-04. Yaseen E-commerce Store
+""Repository" (https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/yaseenbalochpk/Python-Learning-)
 
-An e-commerce website project that I'm continuing to troubleshoot and improve.
+3. Web Development Journey
 
-- 🚧 Under development.
-- 🔧 Focused on debugging and improving reliability.
-- 🔗 "View Repository" (https://github.com/yaseenbalochpk/Yaseen-Ecommerce-Store)
+A practical repository documenting web development learning and project work.
 
-05. Personal Portfolio — yaseenbaloch.com
+- HTML structure and page development.
+- CSS styling and layouts.
+- JavaScript practice and interactive projects.
+- Git and GitHub workflow.
 
-My personal website project, intended to bring my work, skills, and professional identity together.
+Tech: HTML · CSS · JavaScript
 
-- 🛠️ Under development.
-- 🎨 Focused on personal branding and presentation.
-- 🔗 "View Source Code" (https://github.com/yaseenbalochpk/yaseenbaloch.com)
+""Repository" (https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/yaseenbalochpk/Web-Development-Journey)
+
+4. Programming Fundamentals Labs
+
+C++ lab assignments and source code developed as part of my Computer Science coursework.
+
+- Practice with programming fundamentals.
+- Work through coding exercises and lab tasks.
+- Maintain a reference for revision and future improvement.
+
+Tech: C++
+
+""Repository" (https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/yaseenbalochpk/programming-fundamentals-labs)
+
+5. Yaseen E-Commerce Store
+
+A responsive e-commerce website project built to practice front-end development and user-interface structure.
+
+Tech: HTML · CSS · JavaScript · Bootstrap
+
+""Repository" (https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/yaseenbalochpk/Yaseen-Ecommerce-Store)
+
+The live demo is intentionally omitted while the project is being fixed.
+
+6. Personal Website — In Development
+
+My personal digital platform for presenting my work, technical interests, learning journey, and professional identity.
+
+Tech: Next.js · React · TypeScript
+
+""Repository" (https://img.shields.io/badge/Website%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/yaseenbalochpk/yaseenbaloch.com)
+
+Currently in development. A live demo will be added when it is ready.
 
 ---
 
 📊 GitHub Overview
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=yaseenbalochpk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics for Yaseen Baloch"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenbalochpk&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used programming languages"/><br/><img src="https://streak-stats.demolab.com?user=yaseenbalochpk&theme=transparent&hide_border=true" alt="GitHub contribution streak"/></div>Statistics and language breakdowns depend on the provider's availability and the repositories it can access. Language percentages are not a complete measure of programming proficiency.
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=yaseenbalochpk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=D4AF37&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenbalochpk&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=E5E7EB&langs_count=6" alt="Most used programming languages" /><img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaseenbalochpk&theme=dark&hide_border=true&background=0D1117&ring=34D399&fire=D4AF37&currStreakLabel=34D399" alt="GitHub contribution streak" /></div>Statistics are generated by external services and may occasionally be unavailable or temporarily inaccurate.
 
 ---
 
-🌱 What I'm Working On
+🌱 What I'm Working Toward
 
-- 📘 Strengthening C++ and programming fundamentals.
-- 🐍 Applying Python to practical programming challenges.
-- 🌐 Improving and extending web development projects.
-- 🤖 Exploring useful AI tools and automation workflows.
-- 🛒 Debugging and developing my e-commerce project.
-- 💼 Building my personal website and digital identity.
-- 🤝 Growing Pakistan Developer Hub around learning and collaboration.
+- Strengthening programming fundamentals and problem-solving.
+- Improving the quality, structure, and documentation of my projects.
+- Developing stronger web development skills.
+- Exploring practical applications of AI and automation.
+- Building a credible developer portfolio through real work.
+- Supporting a collaborative, learning-focused developer community.
 
 ---
 
 🇵🇰 Pakistan Developer Hub
 
-<div align="center">Learn • Build • Connect • Grow
+I'm the founder of Pakistan Developer Hub (PDH), a professional technology community built around practical learning, collaboration, and growth.
 
-A community where learning leads to practical work and collaboration.
+Our motto: Learn • Build • Connect • Grow
 
-</div>Pakistan Developer Hub (PDH) is a technology community founded to encourage practical learning, project building, collaboration, and professional growth.
+PDH encourages developers and learners to move beyond passive content consumption by building projects, sharing knowledge, seeking feedback, and learning together.
 
-Our areas of interest include:
-
-- 💻 Web and Software Development
-- 🐍 Python and Programming
-- 🤖 AI and AI Automation
-- 📊 Data Science and Emerging Technologies
-- 📱 Mobile and Application Development
-- 💼 Freelancing and Remote Work
-- 🤝 Projects, Collaboration, and Career Opportunities
-
-Join the Community
-
-LinkedIn Community
-https://www.linkedin.com/groups/39563021
-
-WhatsApp Community
-https://chat.whatsapp.com/Ggt0ayrjZTrEpQjNVGFeVl
-
-Facebook Community
-https://www.facebook.com/share/g/1HahqtuLEp/
-
----
-
-🌐 Connect With Me
-
-<div align="center"><a href="https://github.com/yaseenbalochpk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/muhammad-yaseen-b308b53b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://youtube.com/@yaseenbalochpk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://www.facebook.com/share/1BTi6rtPhD/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/yaseenbalochpk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.tiktok.com/@yaseenbalochpk"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-<a href="https://x.com/yaseenbalochpk"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.fiverr.com/s/9d9Xmwa"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
-<a href="https://www.upwork.com/freelancers/~0135efbd4da234f4e4"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
-
-<br/><br/>
-
-Email: "yaseenonliepk@gmail.com" (mailto:yaseenonliepk@gmail.com)
-
-WhatsApp: "Connect on WhatsApp" (https://wa.me/9232021212826)
+<div align="center">""LinkedIn Community" (https://img.shields.io/badge/LinkedIn%20Group-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/groups/39563021)
+""WhatsApp Community" (https://img.shields.io/badge/WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" (https://chat.whatsapp.com/Ggt0ayrjZTrEpQjNVGFeVl)
+""Facebook Community" (https://img.shields.io/badge/Facebook%20Community-1877F2?style=for-the-badge&logo=facebook&logoColor=white)" (https://www.facebook.com/share/g/1HahqtuLEp/)
 
 </div>---
 
-💡 My Developer Mindset
+🤝 Let's Connect
 
-class Developer:
-    def __init__(self, name):
-        self.name = name
-        self.mindset = "Keep Learning"
-        self.goal = "Build Useful Software"
+I'm interested in connecting with fellow learners, developers, educators, and technology communities to exchange knowledge, discuss projects, and explore meaningful collaboration.
 
-    def grow(self):
-        return "Learn -> Build -> Improve -> Repeat"
+<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/yaseenbalochpk)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/muhammad-yaseen-b308b53b1)
+""YouTube" (https://img.shields.io/badge/YouTube-Visit%20My%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)" (https://youtube.com/@yaseenbalochpk)
+""Fiverr" (https://img.shields.io/badge/Fiverr-My%20Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)" (https://www.fiverr.com/sellers/designbyyaseen)
 
+📧 Email: yaseenonlinepk@gmail.com
 
-me = Developer("Yaseen Baloch")
-print(me.grow())
+</div>---
 
-«Great software is built one problem, one lesson, and one improvement at a time.»
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:064E3B,50:34D399,100:D4AF37" width="100%" alt="" />“Learn continuously. Build with purpose. Grow through collaboration.”
 
----
+Thanks for visiting my profile! 🇵🇰
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6A96B,35:087F5B,70:0B1D15,100:050807&height=145&section=footer" width="100%" alt="Green and gold footer"/>Thanks for visiting my profile!
+If you find a project useful, explore the code, share feedback, or connect.
 
-If you find a project useful, feel free to explore the code, share feedback, or connect.
-
-Learn • Build • Connect • Grow 🇵🇰
+<sub>Built with curiosity, consistency, and a commitment to continuous learning.</sub>
 
 </div>
