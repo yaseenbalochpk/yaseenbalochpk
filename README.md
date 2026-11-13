@@ -18,7 +18,7 @@ Muhammad Yaseen | Yaseen Baloch
   <a href="https://discord.com/users/yaseenbalochpk">
     <img src="https://img.shields.io/badge/DISCORD-My%20Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://wa.me/9232021212826">
+  <a href="https://wa.me/923202121826">
     <img src="https://img.shields.io/badge/WHATSAPP-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:yaseenonlinepk@gmail.com">
