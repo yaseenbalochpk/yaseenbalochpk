@@ -1,202 +1,103 @@
+Muhammad Yaseen | Yaseen Baloch
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:14532d,100:16a34a&height=200&section=header&text=Yaseen%20Baloch&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Developer%20%7C%20Founder&descAlignY=60&descSize=16" width="100%" />
+</p><p align="center">
+  <a href="https://yaseenbaloch-com.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-16a34a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/yaseenbalochpk"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:yaseenonlinepk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Python+%26+Web+Development+Learner;Open+Source+Enthusiast;Founder+of+Pakistan+Developer+Hub" />
+</p>---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:071A14,50:065F46,100:9A8050&text=YASEEN%20BALOCH&fontColor=FFFFFF&fontSize=46&fontAlignY=40&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20CONTINUOUS%20LEARNING&descSize=11&descAlignY=62" width="100%" alt="Yaseen Baloch — Computer Science and Software Development" />
+👨‍💻 About Me
 
-<br/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=34D399&center=true&vCenter=true&width=650&lines=BS+Computer+Science+Undergraduate;Python+%7C+C%2B%2B+%7C+Web+Development;Learning+by+Building+Practical+Projects;Founder+of+Pakistan+Developer+Hub" alt="Developer introduction" />
-</a>
-
-<br/>
-
-**Learn with purpose. Build with consistency. Grow through collaboration.**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github)](https://github.com/yaseenbalochpk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-yaseen-b308b53b1)
-[![YouTube](https://img.shields.io/badge/YouTube-My%20Channel-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@yaseenbalochpk)
-
-</div>
+- 🎓 BSCS Student — Ghazi University, Pakistan
+- 💻 Aspiring Software Engineer
+- 🐍 Python & C++ Programmer
+- 🌐 Web Development Enthusiast
+- 🤖 Exploring Artificial Intelligence
+- 🇵🇰 Founder of "Pakistan Developer Hub" (https://github.com/Pakistan-Developer-Hub)
+- 🤝 Open to Collaboration & Open Source
 
 ---
 
-## 👋 About Me
+⚡ Tech Stack
 
-I'm **Muhammad Yaseen**, professionally known as **Yaseen Baloch**, a BS Computer Science undergraduate from Pakistan. I'm interested in programming, software development, web technologies, and practical applications of AI.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,nextjs,tailwind,git,github,vscode,vercel" />
+</p>---
 
-I believe in learning through implementation: understanding a concept, applying it in code, building a project, and improving through feedback.
+🚀 Projects & Repositories
 
-- 🎓 **Education:** BS Computer Science
-- 🐍 **Programming:** Python and C++
-- 🌐 **Web:** HTML, CSS and JavaScript
-- 🛠️ **Workflow:** Git and GitHub
-- 🤖 **Exploring:** AI tools and automation
-- 🇵🇰 **Community:** Founder of Pakistan Developer Hub (PDH)
-
-> My goal is to turn what I learn into useful projects, share knowledge, and keep improving as a developer.
-
-## 🧰 Tech Stack
-
-### Languages
+<p align="center">
+  <a href="https://github.com/yaseenbalochpk/yaseenbaloch.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseenbalochpk&repo=yaseenbaloch.com&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/yaseenbalochpk/Yaseen-Ecommerce-Store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseenbalochpk&repo=Yaseen-Ecommerce-Store&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/yaseenbalochpk/TaskFlow-Pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseenbalochpk&repo=TaskFlow-Pro&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/yaseenbalochpk/programming-fundamentals-labs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseenbalochpk&repo=programming-fundamentals-labs&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/yaseenbalochpk/Python-Learning-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseenbalochpk&repo=Python-Learning-&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/yaseenbalochpk/Web-Development-Journey">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaseenbalochpk&repo=Web-Development-Journey&theme=transparent&hide_border=true" />
+  </a>
+</p>More Repositories
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <a href="https://github.com/yaseenbalochpk/OIBSIP"><img src="https://img.shields.io/badge/OIBSIP-Internship%20Tasks-2563eb?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/Pakistan-Developer-Hub/pdh-website"><img src="https://img.shields.io/badge/PDH%20Website-Repository-16a34a?style=flat-square&logo=github" /></a>
+  <a href="https://github.com/Pakistan-Developer-Hub/pdh-community"><img src="https://img.shields.io/badge/PDH%20Community-Repository-16a34a?style=flat-square&logo=github" /></a>
+</p>---
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaseenbalochpk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenbalochpk&layout=compact&theme=transparent&hide_border=true" />
+</p><p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=yaseenbalochpk&theme=transparent&hide_border=true" />
+</p><p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaseenbalochpk&theme=flat&no-frame=true&row=1&column=6" width="100%" />
+</p>---
+
+🇵🇰 Pakistan Developer Hub
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:14532d&height=100&section=header&text=Pakistan%20Developer%20Hub&fontSize=28&fontColor=ffffff" width="100%" />
+</p><p align="center">
+  <b>Learn • Build • Connect • Grow 🇵🇰🌍</b>
+</p><p align="center">
+  <a href="https://pdh-website.vercel.app/"><img src="https://img.shields.io/badge/Website-PDH-16a34a?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://github.com/Pakistan-Developer-Hub"><img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/groups/39563021"><img src="https://img.shields.io/badge/LinkedIn-Group-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://chat.whatsapp.com/Ggt0ayrjZTrEpQjNVGFeVl"><img src="https://img.shields.io/badge/WhatsApp-Community-25D366?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://discord.gg/apQJGaJDh"><img src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord" /></a>
+  <a href="https://www.facebook.com/share/g/1HahqtuLEp/"><img src="https://img.shields.io/badge/Facebook-Group-1877F2?style=for-the-badge&logo=facebook" /></a>
+</p>---
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://yaseenbaloch-com.vercel.app/"><img src="https://img.shields.io/badge/Website-16a34a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/yaseenbalochpk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-yaseen-b308b53b1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://youtube.com/@yaseenbalochpk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/s/9d9Xmwa"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="mailto:yaseenonlinepk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p><p align="center">
+  <b>Discord:</b> yaseenbalochpk
+</p>---
+
+<p align="center">
+  <i>Keep Learning. Keep Building. Keep Growing.</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,50:14532d,100:0f172a&height=100&section=footer" width="100%" />
 </p>
-
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-
-### Tools & Exploration
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Exploring-0F766E?style=for-the-badge" alt="AI and automation exploration" />
-</p>
-
-*I continue to strengthen these skills through coursework, coding practice, and hands-on projects.*
-
----
-
-## 🚀 Featured Projects
-
-### 01 · TaskFlow-Pro
-
-A task management web project focused on productivity, task organization, and practical front-end development.
-
-**Technologies:** HTML · CSS · JavaScript
-
-[![View Source](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/yaseenbalochpk/TaskFlow-Pro)
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-166534?style=for-the-badge&logo=googlechrome)](https://yaseenbalochpk.github.io/TaskFlow-Pro/)
-
-### 02 · Python Learning — 100 Days
-
-A structured Python learning repository containing day-by-day exercises, programming fundamentals, and practical projects.
-
-**Focus:** Python · Coding Practice · Problem Solving
-
-[![Explore Repository](https://img.shields.io/badge/EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/yaseenbalochpk/Python-Learning-)
-
-### 03 · Web Development Journey
-
-A practical learning repository documenting my web development journey through HTML, CSS, JavaScript, Git, and hands-on projects.
-
-**Focus:** Front-End Development · Responsive Web Design · Project Practice
-
-[![Explore Repository](https://img.shields.io/badge/EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/yaseenbalochpk/Web-Development-Journey)
-
-### 04 · Programming Fundamentals Labs
-
-C++ lab assignments, practical exercises, and source code developed as part of my BS Computer Science coursework.
-
-**Focus:** C++ · Programming Fundamentals · Academic Practice
-
-[![Explore Repository](https://img.shields.io/badge/EXPLORE%20REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/yaseenbalochpk/programming-fundamentals-labs)
-
-### 05 · Yaseen E-Commerce Store
-
-A responsive e-commerce website project built with HTML, CSS, JavaScript, and Bootstrap. The project is undergoing debugging and improvements.
-
-[![View Source](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/yaseenbalochpk/Yaseen-Ecommerce-Store)
-
-*Live demo intentionally omitted while the project is being fixed.*
-
-### 06 · Personal Portfolio — In Development
-
-My personal website project, designed to showcase my work, technical interests, projects, and professional identity.
-
-**Technologies:** Next.js · React · TypeScript
-
-[![View Source](https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github)](https://github.com/yaseenbalochpk/yaseenbaloch.com)
-
-*The website is still in development; no live demo is listed yet.*
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yaseenbalochpk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=D4AF37&text_color=E5E7EB" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaseenbalochpk&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=E5E7EB&langs_count=6" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=yaseenbalochpk&theme=dark&hide_border=true&background=0D1117&ring=34D399&fire=D4AF37&currStreakLabel=34D399" alt="GitHub contribution streak" />
-
-</div>
-
-*Statistics and streaks depend on external services and may occasionally be unavailable.*
-
----
-
-## 🌱 What I'm Working Toward
-
-- Improving programming fundamentals and problem-solving.
-- Writing clearer, more maintainable code.
-- Building and documenting practical projects.
-- Strengthening web development skills.
-- Exploring useful AI and automation workflows.
-- Growing through feedback, collaboration, and continuous learning.
-
----
-
-## 🇵🇰 Pakistan Developer Hub
-
-I'm the founder of **Pakistan Developer Hub (PDH)**, a technology community built around practical learning, project building, collaboration, and professional growth.
-
-**Learn • Build • Connect • Grow**
-
-Our goal is to encourage learners to move from knowledge to practice, from practice to projects, and from projects to meaningful collaboration.
-
-<div align="center">
-
-[![LinkedIn Community](https://img.shields.io/badge/LinkedIn%20Community-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/groups/39563021)
-[![WhatsApp Community](https://img.shields.io/badge/WhatsApp%20Community-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Ggt0ayrjZTrEpQjNVGFeVl)
-[![Facebook Community](https://img.shields.io/badge/Facebook%20Community-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/g/1HahqtuLEp/)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-I'm open to connecting with fellow learners, developers, and technology communities to exchange ideas, share feedback, and learn together.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yaseenbalochpk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-yaseen-b308b53b1)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@yaseenbalochpk)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/9d9Xmwa)
-
-📧 **Email:** [yaseenonlinepk@gmail.com](mailto:yaseenonlinepk@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:064E3B,50:34D399,100:D4AF37" width="100%" alt="" />
-
-### Learn continuously. Build with purpose. Grow through collaboration.
-
-**Thanks for visiting my profile! 🇵🇰**
-
-<sub>Learning in public · Building through practice · Improving every day</sub>
-
-</div>
